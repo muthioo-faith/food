@@ -1,0 +1,207 @@
+body{
+    background-color:beige;
+}
+.navbar{
+    margin: 10px;
+    padding: 7px;
+    /* box-sizing: border-box; */
+    outline: none;border: none;
+    text-transform: capitalize;
+     text-align: right;
+     margin-left: 17%;
+}
+h1{
+margin-top: -4%;
+margin-left:4% ;
+}
+.image{
+    margin-left: 4%;
+}
+.fried{
+    margin-left: 40%;
+    margin-top: -20%;
+}
+.fried h4{
+    background-color: blue;
+    border-radius: 20%;
+    border-width: 10%;
+    width: 17%;
+    font-size: 20px;
+}
+.img{
+    margin-left: 70%;
+    margin-top: -20%;
+}
+.Dreads{
+    display: flex;
+    margin-left: 10px;
+  }
+  .atfi{
+    display: flex;
+    margin-left: 10px;
+  }
+  .pic1{
+    margin-left: 4%; 
+    }
+    .pic2{
+    margin-left: 7%;
+
+    }
+    .pic3{
+      margin-left: 5%;
+      margin-bottom: 5%;
+    }
+    .part1{
+        background-color:blanchedalmond;
+        margin-bottom: 20%;
+    }
+    .part1 p{
+        text-align: center;
+        margin-top: 10%;
+    }
+    .part1 h2{
+        text-align: center;
+    }
+    .part2{
+        text-align: center;
+        margin-top: -15%;
+    }
+    .image2{
+        margin-left: -58%;
+        margin-top: -5%;
+    }
+    h5{
+        margin-top: -20%;
+        font-size: 20px;
+    }
+    h6{
+        background-color: blue;
+    border-radius: 20%;
+    border-width: 10%;
+    width: 10%;
+    font-size: 20px;
+    margin-left: 40%;
+    }
+    .food{
+        display: flex;
+        margin-left: 10px;
+      }
+      .food1{
+        display: flex;
+        margin-left: 10px;
+      }
+      .pic1{
+        margin-left: 4%; 
+        }
+        .pic2{
+        margin-left: 7%;
+    
+        }
+        .pic3{
+          margin-left: 5%;
+          margin-bottom: 5%;
+        }
+        .part3{
+            background-color:blanchedalmond;
+            /* margin-bottom: 20%; */
+        }
+        .part3 p{
+            text-align: center;
+        }
+        .part3 h2{
+            text-align: center;
+        }
+        .part4{
+            background-color:beige;
+        }
+        .part4 p{
+            text-align: center;
+        }
+        .part4 h2{
+            text-align: center;
+        }
+        .food4{
+            display: flex;
+            margin-left: 10px;
+          }
+          .food5{
+            display: flex;
+            margin-left: 10px;
+          }
+          .pic1{
+            margin-left: 4%; 
+            }
+            .pic2{
+            margin-left: 7%;
+        
+            }
+            .pic3{
+              margin-left: 5%;
+              margin-bottom: 5%;
+            }
+            .doc p{
+                margin-left: 60%;
+                margin-top: -7%;
+                margin-bottom: 30px;
+            
+            }
+ .container3{
+display: flex;
+background-color:white;
+}
+h4{
+    text-align:right;
+    margin-bottom:2% ;
+    font-size: 20px;
+}
+.pap{
+    margin-left:98%;
+    margin-top: -67px;
+}
+.intro{
+    color:orange;
+}
+.intro2{
+    color: orange;
+}
+.mes1{
+    margin-left: 1%;
+    font-size: 15px;
+    height: 20%;
+}
+.mes2{
+    margin-left:15% ;
+    height: 20%;
+}
+
+.q{
+    color: aqua;
+    font-size: 40px;
+}
+.q2{
+    font-size: 40px;
+    color: aqua;
+}
+.mes1 p{
+    margin-bottom: 27px;
+}
+.inputBx input{
+    margin-top: 5%;
+    font-size: 20px;
+}
+.inputBx.input span{
+    font-size: 20px;
+}
+.last{
+    background-color: beige;
+    height: 300px;
+}
+.submit{
+    margin-left: 80%;
+    margin-top: -15%;
+    background-color:blue;
+    font-size: 30px;
+    border-radius: 10%;
+    width: 10%;
+}
+
